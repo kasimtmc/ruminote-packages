@@ -12,5 +12,6 @@ command and licenses of the files it contains.
 
 | Release tag | Contents | Upstream licenses |
 |---|---|---|
+| `rt-java-teavm-javac-208d4c9-r2` | r1 + `System.exit` / `Runtime.exit` (host import `ruminote.exit`) | Apache-2.0; javac GPLv2 with Classpath Exception |
 | `rt-java-teavm-javac-208d4c9-r1` | teavm-javac 208d4c9 + Ruminote class library patch (JDK `Math.round`/`rint` ties, `String.lines()`) | Apache-2.0; javac GPLv2 with Classpath Exception |
 | `rt-java-teavm-javac-208d4c9` | teavm-javac (OpenJDK javac + TeaVM, WasmGC) | Apache-2.0; javac GPLv2 with Classpath Exception |
